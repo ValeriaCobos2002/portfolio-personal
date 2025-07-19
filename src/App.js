@@ -5,9 +5,9 @@ import profileImage from './assets/profile.jpg';
 function App() {
   const personalData = {
     photo: profileImage,
-    fullName: "Juan Carlos Pérez González",
+    fullName: "Valeria Anabel Cobos Orbe",
     phone: "+593 99 123 4567",
-    email: "juan.perez@email.com",
+    email: "vale.cobuss@email.com",
     location: "Quito, Ecuador"
   };
 
